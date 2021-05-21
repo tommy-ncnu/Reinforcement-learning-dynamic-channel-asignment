@@ -1,0 +1,6 @@
+/plaidml-venv
+/.vscode
+.DS_Store
+/tmp
+/results
+__pycache__
